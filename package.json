@@ -3,7 +3,7 @@
     "description": "Socket.io store implementation backed by mongodb.",
     "version" : "0.0.8",
     "engines" : {
-        "node": "0.6.x"
+        "node": "0.8.x"
     },
     "keywords": [ "mongodb", "socket.io", "pubsub"],
     "author": "Oleg Slobodskoi <oleg008@gmail.com>",
